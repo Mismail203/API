@@ -1,0 +1,40 @@
+{
+    "Team" : [
+        {
+            "id": 1,
+            "title": "Mirza Ismail",
+            "description": "Web Developer",
+            "image": "https://polychaete-candidat.000webhostapp.com/images/ismail.jpg",
+            "fb": "https://www.facebook.com/mirza.ismail.775?mibextid=ZbWKwL",
+            "insta": "https://instagram.com/im_ismail._?igshid=MzNlNGNkZWQ4Mg==",
+            "linkedln": "https://www.linkedin.com/in/ismail-mirza-a93966214/"
+        },
+        {
+            "id": 2,
+            "title": "Muhammad Arslan",
+            "description": "Web Developer",
+            "image": "https://polychaete-candidat.000webhostapp.com/images/arslan.jpg",
+            "fb": "https://www.facebook.com/MuhammadArsalanAbass",
+            "insta": "https://www.instagram.com/im_arxlan/",
+            "linkedln": "https://www.linkedin.com/in/muhammad-arsalan-174a23199/"
+        },
+        {
+            "id": 3,
+            "title": "Sultan Butt",
+            "description": "Back-End Developer",
+            "image": "https://polychaete-candidat.000webhostapp.com/images/sultan.jpg",
+            "fb": "https://www.facebook.com/m.saqib.7773631",
+            "insta": "https://www.instagram.com/imsultanbutt/",
+            "linkedln": "https://www.linkedin.com/in/sultan-arif-970baa266/"
+        },
+        {
+            "id": 4,
+            "title": "Umer Malik",
+            "description": "Full Stack Developer",
+            "image": "https://polychaete-candidat.000webhostapp.com/images/Umer.jpg",
+            "fb": "https://www.facebook.com/janee.malik.12?mibextid=ZbWKwL",
+            "insta": "https://www.instagram.com/mr_umermalik/?funlid=RrHRNaHP3PSdFdio",
+            "linkedln": "https://www.linkedin.com/"
+        }
+    ]
+}
